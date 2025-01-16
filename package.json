@@ -1,6 +1,6 @@
 {
-  "name": "to_the_moon-parcel",
-  "version": "1.0.0",
+  "name": "y",
+  "version": "2.0.0",
   "description": "",
   "homepage": "https://YurDovhyi.github.io/to_the_moon_parcel",
   "scripts": {
@@ -20,5 +20,6 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "index.js"
 }
